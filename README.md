@@ -61,7 +61,7 @@ Agriculture, FoodTech & Rural Development
 <li>Organizing awareness camp in rural areas about this website can guide millions of farmers. </li></ul>
 
 ## Impact and Benefits
-<ul><li>This website can reduce stress as well as burdens of the farmers regarding the yield and can even turn out a typical Indian farmer into a modern farmer</li>
+<ul><li>This website can reduce stress as well as burdens of the farmers regarding the yield and can even turn out a typical Indian farmer into a modern farmer.</li>
 <li>Due to this technique agriculture yield would be increased double the time its previous value within a year. This can even increase our country’s GDB and can even lower the price of Agri-based products such as food, clothes and other essentials. This can reduce the day-to-day burdens faced by the marginal and small farmers. </li></ul>
 
 ## Research and References
